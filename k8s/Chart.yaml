@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_SANDBOX
+name: alice-sandbox
 description: ALICE Sandbox
 type: application
 version: 0.1.0
